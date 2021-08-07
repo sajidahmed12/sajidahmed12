@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajidahmed12
 - 👀 I’m interested in Computer Vision, Natural Language Processing, & Computer Architecture
-- 🌱 I’m currently learning FPGA based Neural Network Models for hardware Sequrity 
+- 🌱 I’m currently learning FPGA-based Accelerators of Deep Learning Networks and it's applicaion towards AI.
 - 💞️ I’m looking for opportunities based on any Deep learning and Computer Architecture based Research. 
 - 📫 reach me @mailto:sajid.ahmed1@northsouth.edu
 
