@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sajidahmed12 (Md Sajid Ahmed)
-- 👀 I’m interested in Computer Vision, Natural Language Processing, & Computer Architecture
-- 🌱 I’m currently learning FPGA-based Accelerators of Deep Learning Networks and it's applicaion towards AI.
-- 💞️ I’m looking for opportunities based on any Deep learning and Computer Architecture based Research. 
+- 👀 I’m interested in Computer Vision, Natural Language Processing, Biomedical Imaging & Computer Architecture
+- 🌱 I’m currently learning about vision transformer and FPGA-based Accelerators of Deep Learning Networks.
+- 💞️ I’m looking for opportunities based on any Deep learning and Computer vision based Research. 
 - 📫 reach me @mailto: sajid.ahmed1@northsouth.edu or visit [my webistte](https://sites.google.com/view/sajid-site)
 
 <!---
