@@ -22,18 +22,17 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Feel free to take a peak at my work!</h2></summary>
+    <summary><h2 style="display: inline-block">Feel free to take a peak at my projects!</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 
-- 🗂️ Check out my [Porfolio](https://sites.google.com/view/sajid-site)
+- 🗂️ Check out my [Website](https://sites.google.com/view/sajid-site)
 
-- 🌱 Currently working at **AlterSense | Fatima Fellowship Inc.**
+- 🌱 Currently working at **AlterSense Limited (AI/ML Engineer)| Fatima Fellowship Inc.(Fellows Coordinator) **
 
-- 📫 Say hi: **sajid.ahmed1@northsouth.edu**
-
+- 📫 Email me AT: **sajid.ahmed1@northsouth.edu**
 
  <br></br>
 
