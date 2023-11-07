@@ -4,7 +4,12 @@
 - 💞️ I’m looking for opportunities based on any Deep learning and Computer vision-based Research work. 
 - 📫 reach me at [sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)
 - 🗂️ Check out my [Website](https://sites.google.com/view/sajid-site)
-
+https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png
+<div id="user-content-toc">
+  <ul align="center">
+    <img alt="Logo" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Sajid</h1></summary>
+  </ul>
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="resources/divider.gif">
