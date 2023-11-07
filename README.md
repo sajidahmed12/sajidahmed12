@@ -7,7 +7,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Sajid</h1></summary>
+    <img alt="Logo" src="https://media.licdn.com/dms/image/C560BAQGXCAXnsj8SIg/company-logo_200_200/0/1641897165966?e=2147483647&v=beta&t=Jmla5qeCtqps9ae-jhciFzcG8YJRnTJiI01lAJWM4SY"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Sajid</h1></summary>
   </ul>
 </div>
 
