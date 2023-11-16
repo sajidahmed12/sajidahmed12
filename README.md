@@ -13,7 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sajid_ahmed12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajid_ahmed12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/sajid-ahmed-rafi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sajid-ahmed-rafi/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22362559/md-sajid-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22362559/md-sajid-ahmed" height="30" width="40" /></a>
+<a href="https://kaggle.com/sajidahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sajidahmed" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/sajidahmed12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sajidahmed12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
