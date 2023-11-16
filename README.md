@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @sajidahmed12 (Md Sajid Ahmed), ML Engineer at Altersense Ltd.
-- 👀 I’m interested in related research in Computer Vision and Natural Language Processing.
-- 🌱 I’m learning about vision transformer Conversational AI systems and Chatbots to build next-gen AI bots.
-- 💞️ I’m looking for opportunities based on any Deep learning and Computer vision-based Research work. 
-- 📫 reach me at [sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)
-- 🗂️ Check out my [Website](https://sites.google.com/view/sajid-site)
-
-
 <h1 align="center">Hi 👋, I'm Md Sajid Ahmed</h1>
 <h3 align="center">I’m interested in Computer Vision and Natural Language Processing.</h3>
 
@@ -14,8 +6,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **about vision transformer Conversational AI systems and Chatbots to build next-gen AI bots.**
-
-- 📫 How to reach me **sajid.ahmed1@northsouth.edu**
+- 💞️ I’m looking for opportunities based on any **Deep learning and Computer vision-based Research work**. 
+- 📫 reach me at [sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)
+- 🗂️ Check out my [Website](https://sites.google.com/view/sajid-site)
+- 📫 reach me at **[sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
