@@ -9,7 +9,7 @@
 - 💞️ I’m looking for opportunities based on any **Deep learning and Computer vision-based Research work**. 
 - 📫 reach me at [sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)
 - 🗂️ Check out my [Website](https://sites.google.com/view/sajid-site)
-- 📫 reach me at **[sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)*
+- 📫 reach me at **[sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
