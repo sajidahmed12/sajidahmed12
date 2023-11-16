@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **about vision transformer Conversational AI systems and Chatbots to build next-gen AI bots.**
-- 💞️ I’m looking for opportunities based on any **Deep learning and Computer vision-based Research work**. 
-- 📫 reach me at [sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)
+- 💞️ I’m looking for opportunities based on any **Deep learning and Computer vision-based research work*. 
 - 🗂️ Check out my [Website](https://sites.google.com/view/sajid-site)
 - 📫 reach me at **[sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)**
 
