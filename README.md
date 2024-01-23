@@ -7,7 +7,7 @@
 
 - 🌱 I work on **Computer Vision-based AI Projects: Object Detection | Semantic Segmentation | Speech Recognition**
 - 💞️ I’m looking for opportunities based on any **Deep learning and Computer vision-based research work*. 
-- 🗂️ Check out my [Website](https://sites.google.com/view/sajid-site)
+- 🗂️ Check out my [Website](https://sajidahmed12.github.io/)
 - 📫 reach me at **[sajid.ahmed1@northsouth.edu](mailto:sajid.ahmed1@northsouth.edu)**
 
 <h3 align="left">Connect with me:</h3>
