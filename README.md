@@ -8,7 +8,8 @@ My work and projects are best accessed at
 - 🤝 I’m open to **research collaborations, internships, and PhD-level projects** in CV / ML
 - 💬 Ask me about **deep learning, computer vision pipelines, or research workflows**
 - 📫 How to reach me:  
-  &nbsp;
+
+   &nbsp;
   <a href="https://www.linkedin.com/in/sajid-ahmed-rafi/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="95"/>
   </a>
