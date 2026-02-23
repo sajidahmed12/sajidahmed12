@@ -24,7 +24,7 @@ My work and projects are best accessed at
 
 ---
 
-![Sajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidahmed12&show_icons=true)
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidahmed12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 <p align="left">
   <!-- Core ML / CV -->
