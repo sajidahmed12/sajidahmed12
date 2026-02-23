@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sajid Ahmed
-
+I’m a Computer Science PhD student at the University of Kentucky.
 My work and projects are best accessed at  
 👉 **https://sajidahmed12.github.io/**
 
