@@ -3,10 +3,10 @@
 My work and projects are best accessed at  
 👉 **https://sajidahmed12.github.io/**
 
-- 🔭 I work on **Computer Vision, Vision–Language Models, and Deep Learning**
-- 🧠 Research interests include **Object Detection, Semantic Segmentation, Medical Imaging, and Vision–Language learning**
-- 🤝 I’m open to **research collaborations, internships, and PhD-level projects** in CV / ML
-- 💬 Ask me about **deep learning, computer vision pipelines, or research workflows**
+- 🔬 I work on **Large Language Models, Diffusion Models, and Efficient Deep Learning**
+- 🧠 Research interests include **LLM optimization, generative modeling, scalable training systems, and AI efficiency**
+- 🤝 I’m open to research collaborations, internships, and PhD-level research opportunities in ML / LLMs
+- 💬 Ask me about **deep learning, generative AI, model efficiency, or research workflows**
 - 📫 How to reach me:  
 
    &nbsp;
